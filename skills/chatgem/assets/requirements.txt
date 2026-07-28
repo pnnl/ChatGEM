@@ -1,0 +1,12 @@
+cobra>=0.31.1
+numpy>=2.4.6
+openpyxl>=3.1.5
+optlang>=1.9.1
+pandas>=2.3.3
+scipy>=1.15.0
+tqdm>=4.67.0
+matplotlib>=3.10.0
+seaborn>=0.13.0
+straindesign
+gurobipy
+memote>=0.17.0
